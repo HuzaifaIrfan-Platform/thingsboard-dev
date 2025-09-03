@@ -1,5 +1,23 @@
 # thingsboard-dev
+**`thingsboard development deployment`**
 
+<!-- •[Link](#)
+
+<hr>
+
+## 🎬 Demo
+
+[▶️![Demo](https://img.youtube.com/vi/video_id/maxresdefault.jpg)](https://www.youtube.com/watch?v=video_id)
+
+
+hqdefault
+
+![overview](overview.drawio.png)
+
+-->
+
+
+# 🚀 Usage
 
 ## Init
 
@@ -20,6 +38,10 @@ http://localhost:9090
 - System Administrator: sysadmin@thingsboard.org / sysadmin
 - Tenant Administrator: tenant@thingsboard.org / tenant
 - Customer User: customer@thingsboard.org / customer
+
+# 📝 Documentation
+
+# 📚 References
 
 
 # 🤝🏻 Connect with Me
